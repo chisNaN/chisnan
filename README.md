@@ -1,4 +1,4 @@
-<img src="https://j.gifs.com/r831N4.gif" />
+<img src="./r831N4-min.gif" />
 
 ### Hi there 👋
 
